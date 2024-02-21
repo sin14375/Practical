@@ -7,6 +7,7 @@ package practical;
 /**
  *
  * @author Harshdeep
+ * Github
  * Singh
  */
 public class Practical {
