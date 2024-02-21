@@ -6,7 +6,7 @@ package practical;
 
 /**
  *
- * @author Harshdeep
+ * @author Harshdeep Singh
  * Github
  * Singh
  */
